@@ -1,0 +1,899 @@
+@media screen and (min-width: 300px) {
+  
+ #gallery li:nth-child(4n) {
+    clear: left;
+  }
+  
+  /**********************************
+  Track PIC
+  ***********************************/
+  
+  .profile-photo {
+    float: 0 auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:55%
+  
+    
+    
+  }
+  
+}
+
+ .treamt {
+    float: 0 auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:36.6%;
+    margin-bottom: 10%;
+    border-radius: 50%;
+   
+    
+        
+    
+    
+  
+    
+    
+  }
+
+@media screen and (max-width: 375px){
+#thank{
+  float:none;
+  font-size: 1em;
+  margin:20px;
+  
+  
+}
+
+}
+
+
+
+
+@media screen and (min-width: 1121px) {
+
+  /**********************************
+  HEADER
+  ***********************************/
+
+  nav {
+    background: none;
+    font-size: 1.3em;
+    text-align: center;
+    
+  }
+  
+  #logo {
+    text-align: left;
+    width: 40%;
+  }
+
+  h1 {
+    font-size: 3.0em;
+  }
+  
+  h2 {
+    font-size: 1.2em;
+    
+  }
+  
+  header {
+    border-bottom: double 10px #efcc39;
+    margin-bottom: 60px;
+  }
+  
+  
+#loco{
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 20px
+}
+  
+}
+
+
+@media screen and (max-width: 1120px) {
+
+  /**********************************
+  HEADER
+  ***********************************/
+
+  nav {
+    background: none;
+    font-size: 1em;
+    text-align: center;
+    
+  }
+  
+  ul {
+    clear: both;
+    display: block;
+    align-content: center;
+    text-align: center;
+    padding-left: 0;
+  }
+  
+  
+  
+
+  
+}
+
+footer {
+  max-width: 100%;
+}
+
+body {
+  width: auto;
+}
+
+#wrapper {
+  text-align: justify;
+  margin: inherit;
+  padding: inherit;
+  width: 100%;
+  height: auto;
+}
+
+#wrapper {
+  width: auto;
+  text-align: justify;
+}
+
+#wrapper section {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: inherit;
+}
+
+#footer_nav {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  width: 100%;
+}
+
+#wrapper section p {
+  margin: 0 15px;
+}
+
+#fear{
+  font-family:serif;
+  font-size: 1.8em;
+  text-align:center;
+  padding: 20px;
+  margin:20px;
+  margin-bottom:100px;
+}
+
+
+
+/*************
+Responsive Nav
+*************/
+
+@media screen and (min-width: 583px) {
+  
+    nav ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 0 0 10px 0;
+  }
+  
+  
+  
+}
+
+@media screen and (max-width: 582px) {
+  
+  nav ul li {
+    padding: 10px 0 0 0;
+  }
+  
+  nav ul li:nth-child(1) {
+    padding: 0 0 0 0;
+  }
+  
+}
+
+
+
+@media screen and (min-width: 880px) {
+  
+  nav ul li {
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+  }
+  
+}
+
+/*************
+Responsive H1
+*************/
+
+@media screen and (max-width: 1120px) {
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+}
+
+
+#wrapper p {
+  text-align: justify;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+
+/*********************
+Responsive Home Img
+**********************/
+
+@media screen and (max-width: 683px) {
+
+.profile-photo {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+  }
+
+}
+
+#thank{
+  text-align:center;
+  
+  font-size: 2.5em;
+  margin-left: 100px;
+  margin-right: 70px;
+  margin-bottom: 100px
+ 
+    
+}
+
+
+#ethics {
+  display: block;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+#gallery {
+  margin: 0 auto;
+}
+
+.carouselbox, .content {
+  margin: 0 auto;
+}
+
+.profile-photo {
+  margin-bottom: 30px;
+}
+
+#footer_nav ul {
+  padding-left: 0;
+}
+
+
+@media screen and (max-width: 430px){
+
+    
+ table{
+  table-layout:fixed;
+  width: 85%;
+  border-collapse: collapse;
+  margin-left:20px;
+  margin-bottom:10px;
+  margin-right:40px;
+  padding: 20px;
+  font-size: 1em
+
+}
+
+
+
+.users td,
+.users th {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: 10px;
+  font-size: 15px
+  
+  }
+}
+
+
+@media screen and (max-width: 770px){
+  #site_content {
+    width: 600px;
+    overflow: hidden;
+    margin: 20px;
+    padding: 20px 24px 20px 37px;
+    background: #FFF url(content.png) repeat-y;
+      
+	}
+
+ table{
+  table-layout:fixed;
+  width: 85%;
+  border-collapse: collapse;
+  margin-left:20px;
+  margin-bottom:10px;
+  margin-right:40px;
+  padding: 20px;
+  font-size: 1em
+
+}
+
+
+
+.users td,
+.users th {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: 10px;
+  font-size: 30px
+  
+  }
+  
+  
+}
+
+
+#site_content{
+  margin-bottom: 7%;
+  margin-top: 100px
+
+}
+
+/*********************
+Responsive contact form
+**********************/
+
+@media screen and (max-width: 470px){
+  #site_content {
+    width: 290px;
+    overflow: hidden;
+    margin: 20px;
+    padding: 20px 24px 20px 37px;
+    background: #FFF url(content.png) repeat-y;
+      
+	}
+
+}
+
+
+
+
+@media screen and (max-width: 330px){
+  #site_content {
+    width: 225px;
+    overflow: hidden;
+    margin: 20px;
+    padding: 20px 24px 20px 37px;
+    margin: 20px
+    background: #FFF url(content.png) repeat-y;
+      
+	}
+  
+
+  
+  
+  
+  
+  
+  .sam{
+    margin-left: 80px;
+    margin-right: 80px;
+    
+   
+  }
+  
+  .adam{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+  .whit{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+  .harry{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  .sondra{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+  .blake{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+  
+
+}
+
+@media screen and (max-width: 330px){
+}
+
+
+
+/*********************
+STICKY FOOTER
+**********************/
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#body {
+  min-height: 100%;
+  position:relative;
+}
+
+#stuff {
+  padding-bottom: 100px;
+  
+}
+
+#footer {
+  width: 100%;
+  height: 140px;
+  position:inherit;
+  bottom: 0;
+  left: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#footer footer {
+  margin-top: 0;
+}
+
+
+
+
+
+
+#footer_nav {
+  margin-bottom: 0;
+}
+
+
+#header h2 {
+  margin-bottom: 15px;
+}
+
+@media screen and (min-width: 595px) {
+  
+  #footer_nav ul li {
+  display: inline-block;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+  }
+  
+  
+}
+
+@media screen and (max-width: 594px) {
+  
+  #footer_nav ul li {
+    padding-bottom: 5px;
+  }
+  
+  
+}
+
+@media screen and (max-width: 1200px) {
+#footer {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -(@footerHeight + @footerMargin);
+}
+
+ 
+
+  
+  
+
+  /***
+  .clearfooter{
+  height: 330px;
+  padding-bottom:330px;
+  clear:both
+}
+  *****/
+  
+  
+  }
+
+
+/*****************************
+MAKE BIGGER
+******************************/
+
+@media screen and (min-width: 1281px) {
+  
+  #content section p {
+    font-size: 2em;
+  }
+  
+  #wrapper {
+    padding-bottom: 30px;
+  }
+  
+  #gallery {
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    font-size: 3em;
+  }
+  
+  h4 {
+    font-size: 2.5em;
+    padding-top: 20px;
+  }
+  
+  #legend {
+    font-size: 2.5em;
+  }
+  
+  #header, #footer_nav, #foot {
+    font-size: 1.5em;
+  }
+  
+  .profile-photo {
+    width: 500px;
+  }
+  
+  .social-icon {
+    width: 35px;
+    height: auto;
+    
+  }
+  
+  #staff {
+    font-size: 2em;
+  }
+  
+  div ol li a img {
+    width: 90%;
+    height: auto;
+  }
+  
+  
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+/***********************
+  coaches paragraphs and picture sizes
+***********************/
+
+.cm{
+  float: left;
+  width: 50%;
+  display:block;
+  overflow:hidden;
+  margin-bottom: 150px;
+  margin-left:100px;
+  font-size:1.5em
+    
+    
+}
+
+.coach-m{
+  float:right;
+  width: 33%;
+  margin-right: 25px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:40px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+
+.brian{
+  float:left;
+  width:50%;
+  display:block;
+  margin-left:100px;
+  margin-bottom: 100px;
+  font-size:1.5em
+
+    
+}
+
+.coach-b{
+  float:right;
+  width: 33%;
+  margin-right: 25px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+}
+
+.car{
+  float:left;
+  width:50%;
+  display:block;
+  margin-left:100px;
+  margin-bottom: 100px;
+  font-size:1.5em
+   
+}
+
+.coach-c{
+   float:right;
+  width: 33%;
+  margin-right: 25px;
+  margin-top: 50px;
+  margin-bottom:25px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+}
+
+.cam{
+  float:left;
+  width:50%;
+  display:block;
+  margin-left:100px;
+  margin-bottom: 100px;
+  font-size:1.5em
+   
+  
+}
+
+.coach-cm{
+  float:right;
+  width: 33%;
+  height: 25%;
+  margin-right: 25px;
+  clear:right;
+  margin-top:44px;
+  margin-bottom: 100px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+}
+
+
+
+
+
+ 
+    
+@media screen and (max-width: 420px){
+#thank{
+  float:none;
+  font-size: 1.2em;
+  margin-left:60px;
+  
+  
+}
+ 
+
+  
+   table{
+  table-layout:fixed;
+  width: 85%;
+  border-collapse: collapse;
+  margin-left:20px;
+  margin-bottom:10px;
+  margin-right:40px;
+  padding: 20px;
+  font-size: 1em
+
+}
+
+
+
+.users td,
+.users th {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: 10px;
+  font-size: 15px
+  
+  }
+  
+}
+
+
+/*****************************
+Responsive coach pics 
+******************************/
+
+
+
+@media screen and (max-width: 1000px){
+
+  
+.cm{
+    width: 70%;
+    margin-left: 100px;
+    
+  }
+.coach-m{
+  float:right;
+  width: 60%;
+  margin-right: 200px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+  
+  
+  
+  .brian{
+    width: 70%;
+    margin-left: 100px
+  }
+.coach-b{
+  float:right;
+  width: 60%;
+  margin-right: 200px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+  
+  
+  .car{
+    width: 70%;
+    margin-left: 100px
+  }
+.coach-c{
+  float:right;
+  width: 60%;
+  margin-right: 200px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+  
+ .cam{
+    width: 70%;
+    margin-left: 100px
+  }
+.coach-cm{
+  float:right;
+  width: 60%;
+  margin-right: 200px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+ 
+  
+  
+  
+ 
+    
+    
+ @media screen and (max-width: 420px){
+.cm{
+    width: 55%;
+    margin-left: 100px
+  }     
+      
+ .coach-m{
+  float:right;
+  width: 50%;
+  margin-right: 80px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  .brian{
+    width: 55%;
+    margin-left: 100px
+  }
+      
+.coach-b{
+  float:right;
+  width: 60%;
+  margin-right: 60px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  .car{
+    width: 55%;
+    margin-left: 100px
+  }
+  
+  .coach-c{
+  float:right;
+  width: 60%;
+  margin-right: 60px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+  .cam{
+    width: 55%;
+    margin-left: 100px
+  }
+  
+  .coach-cm{
+  float:right;
+  width: 60%;
+  margin-right: 60px;
+  margin-bottom: 70px;
+  clear:right;
+  margin-top:20px;
+  -webkit-transform: rotate(90deg);
+  border: 10px solid #4c0000;
+ 
+}
+  
+  
+  
+}
+  
+  
+  
+
+  
